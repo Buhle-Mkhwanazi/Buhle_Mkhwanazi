@@ -16,3 +16,7 @@ Welcome to my Portfolio, where I showcase my [projects]
 - Programming: SQL
 - Database: Microsoft SQL Server
 - Data Visualization: Tableau, Power BI
+
+### 🤝🏽 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/buhle-mkhwanazi-384785280/)
