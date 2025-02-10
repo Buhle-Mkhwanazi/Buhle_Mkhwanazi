@@ -9,7 +9,7 @@ Hello I'm Buhle Mkhwanazi. Enthusiastic and detail-oriented Data Analyst with st
 
 ### 👨‍💻 Projects
 
-Welcome to my Portfolio, where I showcase my [projects]
+Welcome to my Portfolio, where I showcase my [projects](https://github.com/Buhle-Mkhwanazi/Portfolio-Guide)
 
 ### 🧰 Tools
 
